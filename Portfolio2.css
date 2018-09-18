@@ -1,0 +1,118 @@
+body {
+    background: grey;
+    background-image: url(pictures/bananas.png);
+}
+
+#navRow {
+    border-bottom:4px solid #cccccc;
+}
+.my-col {
+    padding: 20px;
+    background-color:#4aaaa5;
+    color:white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-weight:bold;
+    text-align: center;
+}
+
+.blank-col {
+    padding: 30px;
+    background-color: white;
+}
+
+.nav-col {
+
+    background-color: white;
+    padding: 20px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    text-decoration-line: none;
+  
+}
+
+.img {
+    margin: 13px;
+}
+
+#me-text {
+color: #4aaaa5;
+font-size: x-large;
+font-weight: bold;
+font-family: 'Georgia', Times, Times New Roman, serif;
+border-bottom: #ccc solid 3px;
+padding:20px 0 10px 0;
+margin-bottom: 12px;
+
+
+}
+
+#bodybox {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.BodyFont {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+}
+
+#footer {
+    margin-top: 30px;
+    border-top:4px solid #4aaaa5;
+    text-align: center;
+    color: #ccc;
+  font-size: small;
+  padding-top:5px;
+  background-color: #777;
+}
+
+.copyright {
+padding-top:15px;
+}
+
+.form-group {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif; 
+    color: #777;
+
+}
+
+placeholder {
+    text-align: right;
+}
+
+.navLink {
+    color: #777;
+}
+
+
+/* FOR CONTACT PAGE */
+
+#footerCont {
+
+    margin-top: 65px;
+    border-top:4px solid #4aaaa5;
+    text-align: center;
+    color: #ccc;
+  font-size: small;
+  padding-top:5px;
+  background-color: #777;
+}
+
+.card-img-top {
+
+    height:254px;
+    width: 254px;
+}
+
+.card-text {
+    height: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.cardbody {
+    background-color: #4aaaa5;
+    margin-bottom: 10px;
+}
+
+/* Psuedo Classes */
+
